@@ -12,5 +12,6 @@
     <orderEntry type="library" name="OpenJML-0.8.8" level="application" />
     <orderEntry type="library" name="OpenJML-0.8" level="application" />
     <orderEntry type="library" name="openjml-0.8" level="application" />
+    <orderEntry type="library" name="ayed-stack" level="project" />
   </component>
 </module>
